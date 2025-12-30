@@ -1,4 +1,4 @@
-import main
+import traffic_main
 
 
-main.main()
+traffic_main.main()
